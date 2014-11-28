@@ -1,0 +1,19 @@
+{
+  "name": "tabuleka",
+  "version": "1.0.0",
+  "description": "Um jogo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fczuardi/tabuleka"
+  },
+  "author": "",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/fczuardi/tabuleka/issues"
+  },
+  "homepage": "https://github.com/fczuardi/tabuleka"
+}
