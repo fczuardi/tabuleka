@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/fczuardi/tabuleka/issues"
   },
-  "homepage": "https://github.com/fczuardi/tabuleka"
+  "homepage": "https://github.com/fczuardi/tabuleka",
+  "dependencies": {
+    "express": "^4.10.4",
+    "socket.io": "^1.2.1"
+  }
 }
